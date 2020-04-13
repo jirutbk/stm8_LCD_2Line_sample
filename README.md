@@ -2,7 +2,7 @@
 IAR EW for stm8 3.11.1  
 MCU stm8s103k3  
 LCD 16x2 (16 PIN)  
-1. GND
+<pre>1. GND
 2. VCC
 3. GND
 4. PORTD_6
@@ -14,6 +14,6 @@ LCD 16x2 (16 PIN)
 13. PORTD_2
 14. PORTD_3
 15. to 16. none
-
+</pre>
 
 
