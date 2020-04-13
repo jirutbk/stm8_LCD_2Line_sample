@@ -8,12 +8,12 @@ LCD 16x2 (16 PIN)
 4. PORTD_6
 5. GND
 6. PORTD_7
-7. - 10. none
+7. to 10. none
 11. PORTD_0
 12. PORTD_1 
 13. PORTD_2
 14. PORTD_3
-15. - 16. none
+15. to 16. none
 
 
 
